@@ -2,7 +2,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimhodol)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Interest
+#### Interests
 
 - User Experience
 - Start-up Team Culture
