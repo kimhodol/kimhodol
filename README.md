@@ -4,10 +4,10 @@
 
 #### Interests
 
-- User Experience
-- Start-up Team Culture
+- User / Customer Experience
 - Web development with Spring Boot + React
-- Leadership, Mentoring, Presentation
+- Leadership, Education, Presentation
+- Start-up Team Culture
 
 [![asdf](https://img.shields.io/badge/ko-resume-lightgrey?style=flat-square)](https://www.notion.so/kimhodol/24c6078598aa4ee882c7a1a90db9f53e)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/woonjangahn/)](https://www.linkedin.com/in/woonjangahn/) 
